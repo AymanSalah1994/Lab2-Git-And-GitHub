@@ -10,3 +10,9 @@ After Deleting
         $ git push origin : dev 
         $ git push origin : test 
 ```
+
+## Listing Tags 
+```
+        $ git tag -l
+```
+ 
